@@ -1,11 +1,10 @@
 ## Peer assessment project for Coursera Getting and Cleaning Data course
 
-
-
-
-
-
-
+This repo contain:
+1. run_analysis.R - script to complete data processing for the project
+2. "getdata-projectfiles-UCI HAR Dataset.zip" - archive with data for the project
+3. README.md - file you reading right now
+4. CodeBook.md - a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
 
 ## References
 

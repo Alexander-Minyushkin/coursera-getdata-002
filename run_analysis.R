@@ -70,5 +70,5 @@ independent_dataset <- ddply(result, .(activity, subject), .fun = function(x){ c
     cat("Unit test FAILED!!!!!\n")
   }
 
-
+# Save data for project submission
 write.table(independent_dataset, file="./independent_tidy_data_set.txt", sep="\t", row.names=FALSE)
